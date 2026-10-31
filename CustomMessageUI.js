@@ -5,7 +5,7 @@
 /*:
  * @target MZ
  * @plugindesc Personaliza a caixa de diálogo, a caixa do nome, as escolhas e a resolução da tela.
- * @author Você
+ * @author ymdntsk
  *
  * @help
  * ============================================================================
